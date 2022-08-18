@@ -2,3 +2,8 @@ body {
   background-image: url("./img/pexels-pixabay-209037.jpg");
   background-size: cover;
 }
+
+.ttt {
+  text-align: center;
+  margin-top: 250px;
+}
